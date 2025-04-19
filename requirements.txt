@@ -1,0 +1,9 @@
+streamlit
+pandas
+pdfminer.six
+transformers
+torch 
+langchain
+langchain-community
+sentence-transformers
+faiss-cpu
